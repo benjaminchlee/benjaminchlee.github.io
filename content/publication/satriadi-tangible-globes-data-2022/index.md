@@ -6,7 +6,7 @@ authors:
 - Barrett Ens
 - Maxime Cordeil
 - Tobias Czauderna
-- Benjamin Lee
+- admin
 - Ying Yang
 - Tim Dwyer
 - Bernhard Jenny
@@ -17,6 +17,8 @@ publication_types:
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3491102.3517715
 links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3491102.3517715
+- name: Video
+  url: https://www.youtube.com/watch?v=QwlpML4D9lo
+projects:
+  - tangible-user-interfaces
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'FIESTA: A Free Roaming Collaborative Immersive Analytics System'
 authors:
-- Benjamin Lee
+- admin
 - Maxime Cordeil
 - Arnaud Prouzeau
 - Tim Dwyer
@@ -12,7 +12,6 @@ publication_types:
 publication: '*Proceedings of the 2019 ACM International Conference on Interactive
   Surfaces and Spaces*'
 doi: 10.1145/3343055.3360746
-links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3343055.3360746
+projects:
+  - collaborative-immersive-analytics
 ---

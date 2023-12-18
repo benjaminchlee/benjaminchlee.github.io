@@ -2,7 +2,7 @@
 title: 'Data Visceralization: Enabling Deeper Understanding of Data Using Virtual
   Reality'
 authors:
-- Benjamin Lee
+- admin
 - Dave Brown
 - Bongshin Lee
 - Christophe Hurter
@@ -14,7 +14,10 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'
 doi: 10.1109/TVCG.2020.3030435
+projects:
+  - data-driven-storytelling
 links:
-- name: URL
-  url: https://ieeexplore.ieee.org/document/9229242/
+- name: Video
+  url: https://www.youtube.com/watch?v=XmYNISBjL_Q
+honourable_mention: true
 ---

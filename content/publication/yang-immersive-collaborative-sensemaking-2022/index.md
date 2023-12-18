@@ -4,7 +4,7 @@ authors:
 - Ying Yang
 - Tim Dwyer
 - Michael Wybrow
-- Benjamin Lee
+- admin
 - Maxime Cordeil
 - Mark Billinghurst
 - Bruce H. Thomas
@@ -14,9 +14,9 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the ACM on Human-Computer Interaction*'
 doi: 10.1145/3567741
-tags:
-- notion
 links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3567741
+- name: Video
+  url: https://www.youtube.com/watch?v=8AxNxvPAdYk
+projects:
+  - collaborative-immersive-analytics
 ---

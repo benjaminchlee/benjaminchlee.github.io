@@ -1,7 +1,7 @@
 ---
 title: 'Deimos: A Grammar of Dynamic Embodied Immersive Visualisation Morphs and Transitions'
 authors:
-- Benjamin Lee
+- admin
 - Arvind Satyanarayan
 - Maxime Cordeil
 - Arnaud Prouzeau
@@ -13,7 +13,9 @@ publication_types:
 - paper-conference
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3544548.3580754
-tags:
-- Computer Science - Human-Computer Interaction
-- notion
+links:
+- name: Video
+  url: https://www.youtube.com/watch?v=ZetFcN0QkR8
+projects:
+  - hybrid-user-interfaces
 ---

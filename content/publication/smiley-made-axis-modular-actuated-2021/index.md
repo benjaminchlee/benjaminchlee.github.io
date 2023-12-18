@@ -2,7 +2,7 @@
 title: 'The MADE-Axis: A Modular Actuated Device to Embody the Axis of a Data Dimension'
 authors:
 - Jim Smiley
-- Benjamin Lee
+- admin
 - Siddhant Tandon
 - Maxime Cordeil
 - Lonni Besançon
@@ -16,6 +16,10 @@ publication_types:
 publication: '*Proceedings of the ACM on Human-Computer Interaction*'
 doi: 10.1145/3488546
 links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3488546
+- name: Video
+  url: https://www.youtube.com/watch?v=ILZlecsvUbw
+projects:
+  - collaborative-immersive-analytics
+  - tangible-user-interfaces
+honourable_mention: true
 ---

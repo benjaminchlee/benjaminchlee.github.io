@@ -2,7 +2,7 @@
 title: A Design Space For Data Visualisation Transformations Between 2D And 3D In
   Mixed-Reality Environments
 authors:
-- Benjamin Lee
+- admin
 - Maxime Cordeil
 - Arnaud Prouzeau
 - Bernhard Jenny
@@ -14,6 +14,9 @@ publication_types:
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3491102.3501859
 links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3491102.3501859
+- name: Video
+  url: https://www.youtube.com/watch?v=jjB99Ruc5gY
+projects:
+  - hybrid-user-interfaces
+honourable_mention: true
 ---

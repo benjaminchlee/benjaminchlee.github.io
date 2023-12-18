@@ -2,7 +2,7 @@
 title: 'Shared Surfaces and Spaces: Collaborative Data Visualisation in a Co-located
   Immersive Environment'
 authors:
-- Benjamin Lee
+- admin
 - Xiaoyun Hu
 - Maxime Cordeil
 - Arnaud Prouzeau
@@ -15,6 +15,8 @@ publication_types:
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'
 doi: 10.1109/TVCG.2020.3030450
 links:
-- name: URL
-  url: https://ieeexplore.ieee.org/document/9222346/
+- name: Video
+  url: https://www.youtube.com/watch?v=0ksaAnu9kog
+projects:
+  - collaborative-immersive-analytics
 ---
