@@ -127,4 +127,4 @@ My research lies at the intersection of human-computer interaction, information 
 
 I received my PhD at the <a href="https://www.monash.edu/it/hcc/embodied-visualisation" target="_blank">Data Visualisation and Immersive Analytics Lab (now Embodied Visualisation Lab)</a> at Monash University in 2023. My advisors were <a href="https://ialab.it.monash.edu/~dwyer/" target="_blank">Tim Dwyer</a>, <a href="https://berniejenny.info/" target="_blank">Bernhard Jenny</a>, <a href="https://sites.google.com/view/cordeil/home" target="_blank">Maxime Cordeil</a>, and <a href="https://www.aprouzeau.com/" target="_blank">Arnaud Prouzeau</a>.
 
-Feel free to reach out to me at any time using my email address to the left. I am (intentionally) not very active on social media, so email is the best way to get hold of me.
+Feel free to reach out to me at any time using my email address to the left. I am (intentionally) not very active on social media, so email is the best way to contact me.
