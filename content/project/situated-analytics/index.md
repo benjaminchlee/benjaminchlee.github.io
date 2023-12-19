@@ -16,6 +16,13 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+show_date: false
+reading_time: false
+share: false
+profile: false
+commentable: false
+pager: false
+
 ---
 
 Website still a work-in-progress :)

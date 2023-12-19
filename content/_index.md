@@ -41,7 +41,7 @@ sections:
       text: |-
         <center>
         This list contains all my publications to this date, including conference, journal, and workshop papers.</br>
-        It might sometimes be outdated. Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a possibly more accurate list.
+        I try to keep it updated as best I can. Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a possibly more accurate list.
         </center>
         <br/>
       filters:
@@ -51,5 +51,5 @@ sections:
       columns: '1'
       view: compact
       spacing:
-        padding: ['50px', '0', '50px', '0']
+        padding: ['50px', '0', '0', '0']
 ---

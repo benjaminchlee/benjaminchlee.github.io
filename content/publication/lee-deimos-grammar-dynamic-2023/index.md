@@ -16,6 +16,8 @@ doi: 10.1145/3544548.3580754
 links:
 - name: Video
   url: https://www.youtube.com/watch?v=ZetFcN0QkR8
+- name: Talk
+  url: https://www.youtube.com/watch?v=xokeJtz0yPo
 projects:
   - hybrid-user-interfaces
 ---

@@ -18,6 +18,8 @@ publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3491102.3517715
 links:
 - name: Video
+  url: https://www.youtube.com/watch?v=YySHHylyLME
+- name: Talk
   url: https://www.youtube.com/watch?v=QwlpML4D9lo
 projects:
   - tangible-user-interfaces

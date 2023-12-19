@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'University of Stuttgart'
+    description: 'Postdoctoral researcher at VISUS, University of Stuttgart.'
+    twitter: 'benjaminchlee'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

@@ -17,6 +17,8 @@ doi: 10.1109/TVCG.2020.3030450
 links:
 - name: Video
   url: https://www.youtube.com/watch?v=0ksaAnu9kog
+- name: Talk
+  url: https://www.youtube.com/watch?v=fs4R0N42_MU
 projects:
   - collaborative-immersive-analytics
 ---

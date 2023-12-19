@@ -18,6 +18,8 @@ doi: 10.1145/3488546
 links:
 - name: Video
   url: https://www.youtube.com/watch?v=ILZlecsvUbw
+- name: Talk
+  url: https://www.youtube.com/watch?v=UWpv0TJBqAI
 projects:
   - collaborative-immersive-analytics
   - tangible-user-interfaces

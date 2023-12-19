@@ -14,10 +14,12 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'
 doi: 10.1109/TVCG.2020.3030435
-projects:
-  - data-driven-storytelling
 links:
 - name: Video
   url: https://www.youtube.com/watch?v=XmYNISBjL_Q
+- name: Talk
+  url: https://www.youtube.com/watch?v=C3q5XhdanXk
+projects:
+  - data-driven-storytelling
 honourable_mention: true
 ---
