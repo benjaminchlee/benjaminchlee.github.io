@@ -5,7 +5,7 @@ authors:
 - admin
 - Carlos Quijano-Chavez
 - Michael Sedlmair
-date: '2023-10-01'
+date: '2023-09-01'
 publishDate: '2023-12-18T14:16:32.517017Z'
 publication_types:
 - paper-conference

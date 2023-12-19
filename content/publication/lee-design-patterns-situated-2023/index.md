@@ -4,7 +4,7 @@ authors:
 - admin
 - Michael Sedlmair
 - Dieter Schmalstieg
-date: '2023-01-01'
+date: '2023-10-01'
 publishDate: '2023-12-18T14:16:32.470858Z'
 publication_types:
 - article-journal
