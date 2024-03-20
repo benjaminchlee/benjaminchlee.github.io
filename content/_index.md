@@ -14,26 +14,26 @@ sections:
     design:
       spacing:
         padding: ['50px', '0', '50px', '0']
-  - block: portfolio
-    id: projects
-    content:
-      title: Research Areas & Projects
-      text: |-
-        <center>
-        The main research areas which I am interested in. These are kept intentionally broad, at least for now.
-        </center>
-        <br/>
-      filters:
-        folders:
-          - project
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: masonry
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-      spacing:
-        padding: ['50px', '0', '50px', '0']
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Research Areas & Projects
+  #     text: |-
+  #       <center>
+  #       The main research areas which I am interested in. These are kept intentionally broad, at least for now.
+  #       </center>
+  #       <br/>
+  #     filters:
+  #       folders:
+  #         - project
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: masonry
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
+  #     spacing:
+  #       padding: ['50px', '0', '50px', '0']
   - block: portfolio
     id: publications
     content:
