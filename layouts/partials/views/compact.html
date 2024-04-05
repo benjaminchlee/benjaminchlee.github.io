@@ -36,6 +36,7 @@
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}> -->
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
             alt="{{ $item.Title }}" loading="lazy">
       <!-- </a> -->
     {{end}}

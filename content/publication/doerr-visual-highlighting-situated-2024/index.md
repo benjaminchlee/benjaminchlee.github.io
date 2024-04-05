@@ -12,6 +12,9 @@ publication_types:
 - paper-conference
 publication: '*To appear in Eurographics Conference on Visualization (EuroVis)*'
 #doi: 10.1145/3613904.3642143
+links:
+- name: Supplemental
+  url: 'doerr-visual-highlighting-situated-2024-supplemental.pdf'
 # projects:
 # -
 ---
