@@ -10,8 +10,8 @@ date: '2024-06-01'
 publishDate: '2024-03-20T09:11:31.622770Z'
 publication_types:
 - paper-conference
-publication: '*To appear in Eurographics Conference on Visualization (EuroVis)*'
-#doi: 10.1145/3613904.3642143
+publication: '*Computer Graphics Forum (EuroVis)*'
+doi: 10.1111/cgf.15105
 links:
 - name: Supplemental
   url: 'doerr-visual-highlighting-situated-2024-supplemental.pdf'

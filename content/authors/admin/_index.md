@@ -17,18 +17,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Immersive and Situated Analytics
+role: Research Scientist in AR/VR and Immersive Analytics
 
 # Email
-email: Benjamin.Lee@visus.uni-stuttgart.de
+# email: Benjamin.Lee@jpmchase.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: VISUS, University of Stuttgart
-    url: https://www.visus.uni-stuttgart.de/en/
+  - name: JPMorganChase, Global Technology Applied Research
+    url: https://www.jpmorgan.com/technology/applied-research
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do research and stuff in many different areas of Immersive Analytics.
+bio: I do research and stuff in many different areas of AR/VR, particularly in Immersive Analytics.
 
 # Interests to show in About widget
 # interests:
@@ -119,12 +119,8 @@ social:
 highlight_name: true
 ---
 
-I am currently a postdoctoral researcher at <a href="https://www.visus.uni-stuttgart.de/en/" target="_blank">VISUS, University of Stuttgart</a>. I work with <a href="https://www.vis.uni-stuttgart.de/en/institute/team/Schmalstieg/" target="_blank">Dieter Schmalstieg</a> and <a href="https://visvar.github.io/members/michael_sedlmair.html" target="_blank">Michael Sedlmair</a> on <i>Immersive Analytics</i> and <i>Situated Analytics</i>.
+I am currently a Senior Associate Research Scientist in the <a href="https://www.jpmorgan.com/technology/applied-research/" target="_blank">Global Technology Applied Research</a> AR/VR team at JPMorganChase. My research focuses on the human-centred aspects of virtual and augmented reality, with a particular focus on <i>Immersive Analytics</i>. My work has been published in several top-tier peer-reviewed venues, including ACM CHI, IEEE VIS, and IEEE ISMAR. I have also received three Best Paper Honourable Mention Awards from VIS 2021, ISS 2021, and CHI 2022.
 
-Immersive analytics is the use of immersive technologies, including virtual and augmented reality (VR/AR), to support data exploration, interaction, and presentation. On the other hand, situated analytics is the display of information close to its physical context to support in-situ analysis and decision-making, nowadays facilitated through the use of AR.
+Before this, I was a postdoctoral researcher at <a href="https://www.visus.uni-stuttgart.de/en/" target="_blank">VISUS, University of Stuttgart</a> where I worked with <a href="https://www.vis.uni-stuttgart.de/en/institute/team/Schmalstieg/" target="_blank">Dieter Schmalstieg</a> and <a href="https://visvar.github.io/members/michael_sedlmair.html" target="_blank">Michael Sedlmair</a>.
 
-My research lies at the intersection of human-computer interaction, information visualisation, and VR/AR. I have published papers in several top-tier peer-reviewed venues, including ACM CHI, IEEE VIS, and IEEE ISMAR. I have also received three Best Paper Honourable Mention Awards from VIS 2021, ISS 2021, and CHI 2022.
-
-I received my PhD at the <a href="https://www.monash.edu/it/hcc/embodied-visualisation" target="_blank">Data Visualisation and Immersive Analytics Lab (now Embodied Visualisation Lab)</a> at Monash University in 2023. My advisors were <a href="https://ialab.it.monash.edu/~dwyer/" target="_blank">Tim Dwyer</a>, <a href="https://berniejenny.info/" target="_blank">Bernhard Jenny</a>, <a href="https://sites.google.com/view/cordeil/home" target="_blank">Maxime Cordeil</a>, and <a href="https://www.aprouzeau.com/" target="_blank">Arnaud Prouzeau</a>.
-
-Feel free to reach out to me at any time using my email address to the left. I am (intentionally) not very active on social media, so email is the best way to contact me.
+I received my PhD at the <a href="https://www.monash.edu/it/hcc/embodied-visualisation" target="_blank">Data Visualisation and Immersive Analytics Lab (now Embodied Visualisation Lab)</a> at Monash University. My advisors were <a href="https://ialab.it.monash.edu/~dwyer/" target="_blank">Tim Dwyer</a>, <a href="https://berniejenny.info/" target="_blank">Bernhard Jenny</a>, <a href="https://sites.google.com/view/cordeil/home" target="_blank">Maxime Cordeil</a>, and <a href="https://www.aprouzeau.com/" target="_blank">Arnaud Prouzeau</a>.

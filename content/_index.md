@@ -37,11 +37,11 @@ sections:
   - block: portfolio
     id: publications
     content:
-      title: My Publications
+      title: Publications
       text: |-
         <center>
-        This list contains all my publications to this date, including conference, journal, and workshop papers.</br>
-        I try to keep it updated as best I can. Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a possibly more accurate list.
+        This list contains most but not all of my publications.</br>
+        Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a complete list.
         </center>
         <br/>
       filters:
