@@ -40,7 +40,7 @@ sections:
       title: Publications
       text: |-
         <center>
-        This list contains most but not all of my publications.</br>
+        This list contains most but probably not all of my publications.</br>
         Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a complete list.
         </center>
         <br/>

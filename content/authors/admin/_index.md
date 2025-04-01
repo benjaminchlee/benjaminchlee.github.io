@@ -99,9 +99,6 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oJUHhu4AAAAJ&hl=en
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/benjaminchlee
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/benjaminchlee/
@@ -119,7 +116,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a Senior Associate Research Scientist in the <a href="https://www.jpmorgan.com/technology/applied-research/" target="_blank">Global Technology Applied Research</a> AR/VR team at JPMorganChase. My research focuses on the human-centred aspects of virtual and augmented reality, with a particular focus on <i>Immersive Analytics</i>. My work has been published in several top-tier peer-reviewed venues, including ACM CHI, IEEE VIS, and IEEE ISMAR. I have also received three Best Paper Honourable Mention Awards from VIS 2021, ISS 2021, and CHI 2022.
+I am currently a Senior Associate Research Scientist in the <a href="https://www.jpmorgan.com/technology/applied-research/" target="_blank">Global Technology Applied Research</a> XR Team at JPMorganChase. My research focuses on the human-centred aspects of virtual and augmented reality, with a particular focus on <i>Immersive Analytics</i>. My work has been published in top-tier peer-reviewed venues, primarily ACM CHI and IEEE VIS. I have also received a Best Paper (Honourable Mention) Awards from CHI 2025, CHI 2022, VIS 2021, and ISS 2021.
 
 Before this, I was a postdoctoral researcher at <a href="https://www.visus.uni-stuttgart.de/en/" target="_blank">VISUS, University of Stuttgart</a> where I worked with <a href="https://www.vis.uni-stuttgart.de/en/institute/team/Schmalstieg/" target="_blank">Dieter Schmalstieg</a> and <a href="https://visvar.github.io/members/michael_sedlmair.html" target="_blank">Michael Sedlmair</a>.
 

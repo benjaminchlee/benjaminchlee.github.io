@@ -68,16 +68,25 @@
   {{ end }}
 
   {{/* If `best_paper` is set and is true. */}}
+  {{ if isset $page.Params "equal_contribution" }}
+  <div>
+    <i>* Denotes equal contribution</i>
+  </div>
+  {{ end }}
+
+
+
+  {{/* If `best_paper` is set and is true. */}}
   {{ if eq $page.Params.best_paper true}}
   <div>
-    <b>🏆 Best Paper Award</b>
+    <b>🏆 Best Paper Award (Top 1% of Submissions)</b>
   </div>
   {{ end }}
 
   {{/* If `honourable_mention` is set and is true. */}}
   {{ if eq $page.Params.honourable_mention true}}
   <div>
-    <b>🏅 Best Paper Honourable Mention Award</b>
+    <b>🏅 Best Paper Honourable Mention Award (Top 5% of Submissions)</b>
   </div>
   {{ end }}
 </div>
