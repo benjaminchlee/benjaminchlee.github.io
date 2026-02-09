@@ -10,9 +10,9 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 10
-  - name: Publications
+  - name: Selected Publications
     url: '#publications'
     weight: 20
-  - name: Curriculum Vitæ
-    url: uploads/Benjamin Lee - CV.pdf
+  - name: Resume
+    url: uploads/Benjamin Lee - Resume.pdf
     weight: 30
