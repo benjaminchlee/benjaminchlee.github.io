@@ -37,10 +37,10 @@ sections:
   - block: portfolio
     id: publications
     content:
-      title: Selected Publications
+      title: Publications
       text: |-
         <center>
-        This list contains publications that I am particularly proud of.</br>
+        This list all of my published full papers at journals and conferences. It might not always be fully updated.</br>
         Please check my <a href="https://scholar.google.com/citations?hl=en&user=oJUHhu4AAAAJ">Google Scholar page</a> for a complete list.
         </center>
         <br/>
